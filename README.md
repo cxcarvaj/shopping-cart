@@ -2,7 +2,7 @@
 
 Ecommerce UI:
 
-- [] Displays a list of products coming from a JSON
+- ✅ Displays a list of products coming from a JSON
 - [] Add a filter by category
 - [] Add a filter by price
 

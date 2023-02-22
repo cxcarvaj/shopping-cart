@@ -1,4 +1,4 @@
-import { Products } from "./components/Products";
+import { Products } from "./components/Products/Products";
 import { products } from "./mocks/products.json";
 
 function App() {
