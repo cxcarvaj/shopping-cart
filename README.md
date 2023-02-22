@@ -1,4 +1,4 @@
-# Challenge
+# Shopping Cart - Challenge
 
 1. Ecommerce UI:
 
