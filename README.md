@@ -3,8 +3,8 @@
 Ecommerce UI:
 
 - ✅ Displays a list of products coming from a JSON
-- [] Add a filter by category
-- [] Add a filter by price
+- ✅ Add a filter by category
+- ✅ Add a filter by price
 
 Make use of useContext to avoid passing unnecessary props.
 
