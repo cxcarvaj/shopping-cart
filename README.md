@@ -1,14 +1,13 @@
 # Challenge
 
-Ecommerce UI:
+1. Ecommerce UI:
 
-- ✅ Displays a list of products coming from a JSON
-- ✅ Add a filter by category
-- ✅ Add a filter by price
+- ✅ Displays a list of products coming from a JSON.
+- ✅ Add a filter by category.
+- ✅ Add a filter by price.
+- ✅ Make use of useContext to avoid passing unnecessary props.
 
-Make use of useContext to avoid passing unnecessary props.
-
-Cart:
+2. Shopping Cart:
 
 - [] Make it possible to add products to a cart.
 - [] Make it possible to remove products from the cart.
